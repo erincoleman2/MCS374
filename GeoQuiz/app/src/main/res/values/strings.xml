@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Hello Kitty is a little girl from London.</string>
+    <string name="true_button">This is true.</string>
+    <string name="false_button">This is false.</string>
+    <string name="correct_message">Correct!</string>
+    <string name="incorrect_message">Incorrect!</string>
+</resources>
