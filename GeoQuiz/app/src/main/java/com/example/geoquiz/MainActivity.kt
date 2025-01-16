@@ -49,10 +49,10 @@ class MainActivity : ComponentActivity() {
             currentIndex = (currentIndex+1) % questionBank.size
             updateQuestion()
         }
-        binding.prev_button.setOnClickListener{
+        /*binding.prev_button.setOnClickListener{
             currentIndex = (currentIndex-1) % questionBank.size
             updateQuestion()
-        }
+        }*/
 
         updateQuestion()
 
